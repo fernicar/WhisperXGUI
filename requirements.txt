@@ -1,0 +1,11 @@
+--index-url https://download.pytorch.org/whl/nightly/cu121
+torch==2.6.0.dev20241112+cu121
+torchaudio
+ctranslate2
+faster-whisper==1.1.1
+nltk
+pandas
+pyannote.audio
+setuptools
+transformers
+# pip install -U whisperx==3.3.2 --no-deps
